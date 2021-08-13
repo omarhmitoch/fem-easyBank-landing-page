@@ -80,6 +80,8 @@ nav .logo {
   cursor: pointer;
   display: none;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  height: 3rem;
+  width: 3rem;
 }
 .nav-links ul {
   display: flex;
